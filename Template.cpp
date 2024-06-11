@@ -25,6 +25,4 @@ int main(){
 	obj2.area();
 	
 	return 0;
-	
-	return 0;
 }
