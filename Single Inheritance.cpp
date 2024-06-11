@@ -22,7 +22,4 @@ int main(){
 	b.sqr();
 	
 	return 0;
-	
-	
-	return 0;
 }
