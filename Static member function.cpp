@@ -1,5 +1,4 @@
-//Static member function can access both static and non static member data but a static
-//member function can access only static member data
+/* Static member function can access both static and non static member data but a static member function can access only static member data */
 
 #include<iostream>
 using namespace std;
